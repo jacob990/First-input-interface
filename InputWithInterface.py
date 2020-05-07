@@ -1,9 +1,6 @@
 #qpy:quiet
 #-*-coding:utf8;-*-
-"""
-This is a sample project which use SL4A UI Framework,
-There is another Sample project: https://github.com/qpython-android/qpy-calcount
-"""
+
 import qpy
 import androidhelper
 try:
